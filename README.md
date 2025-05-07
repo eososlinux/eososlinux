@@ -49,7 +49,6 @@ EosOS es un respin basada en archlinux que ofrece:
   <i>Escritorio KDE Plasma</i>
 </p>
 
-<br>
 
 
 ## 📥 Descargar EosOS
