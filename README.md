@@ -58,7 +58,7 @@ Puedes descargar la última versión de EosOS aquí:
 🔗 [Descargar EosOS (.iso)]()
 
 > *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
-> 211ce92c68cd3c42bf321a6eebdb919781e578ac5e5585eabeb7c3d3542d6e3b  EosOS-2025.05.08-x86_64.iso.*
+> 2659d106c00011ea1b8032aaa3febc42b07701fa62d35a6b78f81eff21557e1b  EosOS-2025.05.08-x86_64.iso.*
 ## 🧩 Requisitos mínimos
 
 - Procesador de 64 bits
