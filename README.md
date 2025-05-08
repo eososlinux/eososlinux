@@ -55,10 +55,10 @@ EosOS es un respin basada en archlinux que ofrece:
 
 Puedes descargar la última versión de EosOS aquí:
 
-🔗 [Descargar EosOS (.iso)](https://drive.google.com/file/d/1KNvqKdUw7USU-poCqcroOCR1dWDEWqTN/view?usp=drive_link)
+🔗 [Descargar EosOS (.iso)]()
 
 > *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
-> fe3d6c3bbd5c1b465bbb15472143e8230bcc8b3bd67bd03c5a6f17a4eb4e0fb7  EosOS-2025.05.07-x86_64.iso.*
+> 211ce92c68cd3c42bf321a6eebdb919781e578ac5e5585eabeb7c3d3542d6e3b  EosOS-2025.05.08-x86_64.iso.*
 ## 🧩 Requisitos mínimos
 
 - Procesador de 64 bits
