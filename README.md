@@ -61,10 +61,13 @@ Puedes descargar la última versión de EosOS aquí:
 > 5d94166e904c5173cb0305bdcf9c5da8025c5018aa93a64a7e3ab95d7adf2505  EosOS-2025.05.11-x86_64.iso.*
 
 Puedes descargar la iso testing de EosOS aquí:
+Con nuestra iso testing podras instalar algunos pogramas adicionales desde el instalador.
+Podrás instalar libreoffice telegram gimp entre otros.
 
-🔗 [Descargar EosOS (.iso)]()
+🔗 [Descargar EosOS (.iso)](https://drive.google.com/file/d/1xBRSAfMF3HVL4SRrxjL7ZKZLgEiZUyIH/view?usp=sharing)
 
 > *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
+> 5e3df56fe13efb47a8bacb8876376e62c4c5188e790fd04ac857c92ff7bc3f7d  EosOS-2025.05.11-x86_64.iso.*
 
 ## 🧩 Requisitos mínimos
 
