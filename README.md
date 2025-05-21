@@ -69,6 +69,11 @@ Podrás instalar libreoffice telegram gimp entre otros.
 > *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
 > 5e3df56fe13efb47a8bacb8876376e62c4c5188e790fd04ac857c92ff7bc3f7d  EosOS-2025.05.11-x86_64.iso.*
 
+🔗 [Descargar EosOS gnome testing(.iso)](https://drive.google.com/file/d/1vd1Vbb8kcsEgMVb7yRjyBxheIVkOR1z_/view?usp=sharing)
+
+> *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
+> f0c494943a64f9617cbd2564567e4a08a243a362c3349ec1a145c2d35ecff354  EosOS_gnome-2025.05.21-x86_64.iso.*
+
 ## 🧩 Requisitos mínimos
 
 - Procesador de 64 bits
