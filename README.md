@@ -51,7 +51,7 @@ EosOS es un respin basada en archlinux que ofrece:
 
 
 
-## 📥 Descargar EosOS
+## 📥 Descargar EosOS IMPORTANTE !! USAR PARTICIONADO ext4 - TODAS LAS ISO DISPONIBLES.
 
 Puedes descargar la última versión de EosOS aquí:
 
