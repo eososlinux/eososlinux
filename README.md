@@ -53,26 +53,30 @@ EosOS es un respin basada en archlinux que ofrece:
 
 ## 📥 Descargar EosOS IMPORTANTE !! USAR PARTICIONADO ext4 - TODAS LAS ISO DISPONIBLES.
 
-Puedes descargar la última versión de EosOS aquí:
+Recomendamos descargar la versión 1.0.2.
+
+Puedes descargar versión 1.0.0 de EosOS Linux aquí:
 
 🔗 [Descargar EosOS (.iso)](https://drive.google.com/file/d/1RDugsm1IOlT2BEhhEBLRU6hTTMWGhFSx/view?usp=sharing)
 
 > *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
 > 5d94166e904c5173cb0305bdcf9c5da8025c5018aa93a64a7e3ab95d7adf2505  EosOS-2025.05.11-x86_64.iso.*
 
-Puedes descargar la iso testing de EosOS aquí:
-Con nuestra iso testing podras instalar algunos pogramas adicionales desde el instalador.
-Podrás instalar libreoffice telegram gimp entre otros.
+Puedes descargar EosOS plasma desktop aquí:
+EosOS plasma desktop v1.0.2
 
-🔗 [Descargar EosOS testing(.iso)](https://drive.google.com/file/d/1xBRSAfMF3HVL4SRrxjL7ZKZLgEiZUyIH/view?usp=sharing)
+🔗 [Descargar EosOS kde plasma(.iso)](https://drive.google.com/file/d/1RuEDsLc_nl6zJ3EfCFqW8m3v8BHchbyK/view?usp=drive_link)
 
-> *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
-> 5e3df56fe13efb47a8bacb8876376e62c4c5188e790fd04ac857c92ff7bc3f7d  EosOS-2025.05.11-x86_64.iso.*
+> *Asegúrate de verificar la integridad del archivo descargado usando sha256sum EosOS-plasma-desktop-2025.06.23-x86_64.iso.*
+> 6ca36b99894caf724e19641c1bc08f17ae454693d08a131826b7f733a9dd8ae4  EosOS-plasma-desktop-2025.06.23-x86_64.iso.*
 
-🔗 [Descargar EosOS gnome testing(.iso)](https://drive.google.com/file/d/1vd1Vbb8kcsEgMVb7yRjyBxheIVkOR1z_/view?usp=sharing)
+El particionado btrfs manual con el siguiente esquema funciona sin problemas:
 
-> *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
-> f0c494943a64f9617cbd2564567e4a08a243a362c3349ec1a145c2d35ecff354  EosOS_gnome-2025.05.21-x86_64.iso.*
+/boot/efi – 512 MB, FAT32, ESP
+
+/boot – 1 GB, ext4 (fuera de Btrfs, sin subvolumen)
+
+/ – resto del disco, Btrfs con subvolúmenes estándar (p. ej., @, @home, etc.)
 
 ## 🧩 Requisitos mínimos
 
@@ -80,6 +84,8 @@ Podrás instalar libreoffice telegram gimp entre otros.
 - 4 GB de RAM (4 GB recomendados)
 - 80 GB de espacio libre en disco
 - Conexión a Internet
+- Habilitar aceleración 3D
+- Inicia sessión wayland
 
 ## 🤝 Contribuir
 
