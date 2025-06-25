@@ -51,16 +51,8 @@ EosOS es un respin basada en archlinux que ofrece:
 
 
 
-## 📥 Descargar EosOS IMPORTANTE !! USAR PARTICIONADO ext4 - TODAS LAS ISO DISPONIBLES.
-
-Recomendamos descargar la versión 1.0.2.
-
-Puedes descargar versión 1.0.0 de EosOS Linux aquí:
-
-🔗 [Descargar EosOS (.iso)](https://drive.google.com/file/d/1RDugsm1IOlT2BEhhEBLRU6hTTMWGhFSx/view?usp=sharing)
-
-> *Asegúrate de verificar la integridad del archivo descargado usando el hash SHA256 disponible en EosOS.zip.*
-> 5d94166e904c5173cb0305bdcf9c5da8025c5018aa93a64a7e3ab95d7adf2505  EosOS-2025.05.11-x86_64.iso.*
+## 📥 Descargar EosOS 
+IMPORTANTE !! USAR PARTICIONADO ext4
 
 Puedes descargar EosOS plasma desktop aquí:
 EosOS plasma desktop v1.0.2
