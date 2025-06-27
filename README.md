@@ -89,7 +89,10 @@ Gracias por apoyar EosOS ❤️  https://paypal.me/eososlinux?country.x=AR&local
 *Distribución GNU/Linux hecha con pasión.*
 
 <p align="center">
-  <img src="https://github.com/eososlinux/Gr-fica/blob/main/pp.png"/>
+  <a href="https://paypal.me/eososlinux?country.x=AR&locale.x=es_XC" target="_blank">
+    <img src="https://github.com/eososlinux/Gr-fica/blob/main/pp.png" alt="Gracias por apoyar EosOS ❤️" />
+  </a>
   <br/><br/>
   <i>Invitame un café</i>
 </p>
+
