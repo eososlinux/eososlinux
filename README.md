@@ -57,10 +57,10 @@ IMPORTANTE !! USAR PARTICIONADO ext4
 Puedes descargar EosOS plasma desktop aquí:
 EosOS plasma desktop v1.0.2
 
-🔗 [Descargar EosOS kde plasma(.iso)](https://drive.google.com/file/d/1RuEDsLc_nl6zJ3EfCFqW8m3v8BHchbyK/view?usp=drive_link)
+🔗 [Descargar EosOS kde plasma(.iso)](https://drive.google.com/file/d/1ReaIxGbM7bUcvPehicN_f72Ygekn0BOQ/view?usp=drive_link)
 
-> *Asegúrate de verificar la integridad del archivo descargado usando sha256sum EosOS-plasma-desktop-2025.06.23-x86_64.iso.*
-> 6ca36b99894caf724e19641c1bc08f17ae454693d08a131826b7f733a9dd8ae4  EosOS-plasma-desktop-2025.06.23-x86_64.iso.*
+> *Asegúrate de verificar la integridad del archivo descargado usando sha256sum EosOS-plasma-desktop-2025.06.26-x86_64.iso.*
+> ---  EosOS-plasma-desktop-2025.06.26-x86_64.iso.*
 
 El particionado btrfs manual con el siguiente esquema funciona sin problemas:
 
