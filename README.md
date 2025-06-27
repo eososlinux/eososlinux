@@ -85,5 +85,5 @@ Si quieres colaborar con el proyecto, reportar errores o proponer mejoras, ¡est
 
 ---
 
-Gracias por apoyar EosOS ❤️  
+Gracias por apoyar EosOS ❤️  https://paypal.me/eososlinux?country.x=AR&locale.x=es_XC
 *Distribución GNU/Linux hecha con pasión.*
