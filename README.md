@@ -91,5 +91,5 @@ Gracias por apoyar EosOS ❤️  https://paypal.me/eososlinux?country.x=AR&local
 <p align="center">
   <img src="https://github.com/eososlinux/Gr-fica/blob/main/pp.png"/>
   <br/><br/>
-  <i>Escritorio KDE Plasma</i>
+  <i>Invitame un café</i>
 </p>
