@@ -46,7 +46,6 @@ EosOS es un respin basada en archlinux que ofrece:
 
 
 ## 📥 Descargar EosOS 
-IMPORTANTE !! USAR PARTICIONADO ext4
 
 Puedes descargar EosOS plasma desktop aquí:
 EosOS plasma desktop v1.0.2
