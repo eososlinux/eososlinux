@@ -87,3 +87,9 @@ Si quieres colaborar con el proyecto, reportar errores o proponer mejoras, ¡est
 
 Gracias por apoyar EosOS ❤️  https://paypal.me/eososlinux?country.x=AR&locale.x=es_XC
 *Distribución GNU/Linux hecha con pasión.*
+
+<p align="center">
+  <img src="https://github.com/eososlinux/Gr-fica/blob/main/pp.png"/>
+  <br/><br/>
+  <i>Escritorio KDE Plasma</i>
+</p>
