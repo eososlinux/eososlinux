@@ -13,7 +13,7 @@
 
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; display: flex; align-items: center;">
 
-  <img src="https://github.com/eososlinux/Gr-fica/blob/main/500x500.png" alt="EosOS Logo" width="100" style="margin-right: 20px;"/>
+  <img src="https://github.com/eososlinux/Gr-fica/blob/main/EosOS_logo.png" alt="EosOS Logo" width="100" style="margin-right: 20px;"/>
 
   <div>
     <p><strong>EosOS GNU/Linux</strong>, respin base archlinux, rápida y elegante, pensada para usuarios que buscan rendimiento, simplicidad y un diseño cuidado.</p>
