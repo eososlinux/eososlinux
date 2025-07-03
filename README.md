@@ -50,10 +50,18 @@ EosOS es un respin basada en archlinux que ofrece:
 Puedes descargar EosOS plasma desktop aquí:
 EosOS plasma desktop v1.0.2
 
-🔗 [Descargar EosOS kde plasma(.iso)](https://master.dl.sourceforge.net/project/eososlinux/releases/2025-6/EosOS-plasma-desktop-2025.06.26-x86_64.iso?viasf=1)
+🔗 [Descargar EosOS kde plasma(.iso)](https://eososlinux.github.io/)
 
 > *Asegúrate de verificar la integridad del archivo descargado usando sha256sum EosOS-plasma-desktop-2025.06.26-x86_64.iso.*
 > b26bcb72eafd618f748fc49ca3c8b252a8c9a7e7f4538bd958d07ca5287827b6 *EosOS-plasma-desktop-2025.06.26-x86_64.iso*
+
+<!-- Begin  Tag -->
+<div class="sf-root" data-id="3890020" data-badge="oss-users-love-us-black" style="width:125px">
+    <a href="https://sourceforge.net/projects/eososlinux/" target="_blank">EosOSLinux</a>
+</div>
+<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3890020';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
+</script>
+<!-- End  Tag -->
 
 El particionado btrfs manual con el siguiente esquema funciona sin problemas:
 
