@@ -57,9 +57,9 @@ EosOS plasma desktop v1.0.2
 
 El particionado btrfs manual con el siguiente esquema funciona sin problemas:
 
-/boot/efi – 512 MB, FAT32, ESP
+/boot/efi – 1024 MB, FAT32, ESP
 
-/boot – 1 GB, ext4 (fuera de Btrfs, sin subvolumen)
+/boot – 1024 MB, ext4 (fuera de Btrfs, sin subvolumen)
 
 / – resto del disco, Btrfs con subvolúmenes estándar (p. ej., @, @home, etc.)
 
