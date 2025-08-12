@@ -44,7 +44,7 @@ EosOS es un respin basada en archlinux que ofrece:
 ## 🖥️ Captura del Escritorio
 
 <p align="center">
-  <img src="https://github.com/eososlinux/Gr-fica/blob/main/EosOS-plasma-descktop.png" alt="Escritorio KDE de EosOS" width="1000"/>
+  <img src="https://github.com/eososlinux/Gr-fica/blob/main/Descktop.png" alt="Escritorio KDE de EosOS" width="1000"/>
   <br/><br/>
   <i>Escritorio KDE Plasma</i>
 </p>
