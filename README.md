@@ -57,8 +57,8 @@ EosOS plasma desktop v1.0.2
 
 🌐 [Website](https://eososlinux.github.io/)
 
-> *Asegúrate de verificar la integridad del archivo descargado usando sha256sum EosOS-plasma-desktop-2025.06.26-x86_64.iso.*
-> b26bcb72eafd618f748fc49ca3c8b252a8c9a7e7f4538bd958d07ca5287827b6 *EosOS-plasma-desktop-2025.06.26-x86_64.iso*
+> 
+> 
 
 El particionado btrfs manual con el siguiente esquema funciona sin problemas:
 
