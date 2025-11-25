@@ -14,7 +14,7 @@
 
 
 
-# Bienvenido a EosOS GNU/Linux version Lite 1.0.2 LTS. 🚀
+# Bienvenido a EosOS GNU/Linux 🚀
 
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; display: flex; align-items: center;">
 
