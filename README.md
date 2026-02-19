@@ -1,38 +1,38 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm EosOS GNU/Linux</h1>
+<h1 align="center">Hi 👋, I'm Core Linux</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/@EosOS-Linux" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/teVHYWsqtJ" target="blank">
+  <a href="" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
 
 
 
-# Bienvenido a EosOS GNU/Linux 🚀
+# Bienvenido a Core Linux 🚀
 
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 8px; display: flex; align-items: center;">
 
   <img src="https://github.com/eososlinux/Gr-fica/blob/main/EosOS_logo.png" alt="EosOS Logo" width="100" style="margin-right: 20px;"/>
 
   <div>
-    <p><strong>EosOS GNU/Linux</strong>, respin base archlinux, rápida y elegante, pensada para usuarios que buscan rendimiento, simplicidad y un diseño cuidado.</p>
+    <p><strong>Core Linux</strong>, distribución base archlinux, rápida y elegante, pensada para usuarios que buscan rendimiento, simplicidad y un diseño cuidado.</p>
   </div>
 
 </div>
 
 ---
 
-¡Hola! **EosOS GNU/Linux**, respin archlinux, rápida y elegante pensada para usuarios que buscan rendimiento, simplicidad y un diseño cuidado.
+¡Hola! **Core Linux**, distribución archlinux, rápida y elegante pensada para usuarios que buscan rendimiento, simplicidad y un diseño cuidado.
 
-## 🌟 ¿Qué es EosOS?
+## 🌟 ¿Qué es Core Linux?
 
-EosOS es un respin basada en archlinux que ofrece:
+Core Linux es una distribución basada en archlinux que ofrece:
 - Interfaz moderna y fluida
 - Bajo consumo de recursos
 - Seguridad y privacidad por defecto
@@ -50,10 +50,10 @@ EosOS es un respin basada en archlinux que ofrece:
 </p>
 
 
-## 📥 Descargar EosOS 
+## 📥 Descargar Core Linux 
 
-Puedes descargar EosOS plasma desktop aquí:
-EosOS plasma desktop v1.0.2
+Puedes descargar Core Linux plasma desktop aquí:
+
 
 🌐 [Website](https://eososlinux.github.io/)
 
@@ -90,7 +90,7 @@ Si quieres colaborar con el proyecto, reportar errores o proponer mejoras, ¡est
 
 ---
 
-Gracias por apoyar EosOS ❤️
+Gracias por apoyar Core Linux ❤️
 *Distribución GNU/Linux hecha con pasión.*
 
 <p align="center">
